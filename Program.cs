@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 
 
+using Empleos_SA_SV.Models;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
